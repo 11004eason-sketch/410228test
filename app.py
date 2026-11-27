@@ -1,8 +1,6 @@
 import streamlit as st
 import json
 import os
-import numpy as np
-import matplotlib.pyplot as plt
 
 plt.rcParams['font.sans-serif'] = ['Arial Unicode MS', 'PingFang TC', 'Microsoft JhengHei', 'Noto Sans CJK JP']
 plt.rcParams['axes.unicode_minus'] = False
